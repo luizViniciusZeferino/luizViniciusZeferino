@@ -13,7 +13,7 @@ Eu sou estudante de programação
 *  🚀  Se eu não sei, vou aprender!
 
 ## *Linguagens e ferramentas:*  
-[![My Skills](https://skillicons.dev/icons?i=c,css,html,git,github,js,mysql,vscode,&perline=18)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,css,html,git,github,js,mysql,java,intellij,vscode,&perline=18)](https://skillicons.dev)
 
 
 <div align="center">
