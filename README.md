@@ -3,7 +3,7 @@ Eu sou estudante de programação
 
 # 📌 Sobre mim!
 
-* 💻 Eu fiz o curso de JavaScript do Gustavo Guanabara e SQL do Alessandro Trovato  
+* 💻 Aluno de ADS no Intituto Federal de Santa Catarina  
 * 💬 Eu amo tecnologia!  
 * 🚀 Se eu não sei, vou aprender!
 
